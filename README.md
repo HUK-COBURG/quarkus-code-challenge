@@ -19,3 +19,4 @@ Rahmenbedingungen
 * Es ist ausreichend, wenn der Service alle Werte „in Memory“ zur Laufzeit speichert.
 * Für alle individuell erstellten Klassen sollen Unittests geschrieben werden. Rest-Services sollen mit Rest-Assured getestet werden.
 * Für das Anlegen eines Eintrages muss keine GUI gebaut werden. Dies kann via Swagger-Ui oder Postman erfolgen. 
+* Der Rest-Service soll ausschließlich mit Json arbeiten
