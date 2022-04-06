@@ -3,7 +3,7 @@ Erstellen sie einen Rest-Service der Endpoints zum Verwalten einer TODO-Liste be
 * Beschreibung (Max 100 Zeichen)
 * Erledigungsdatum (DD.MM.YYYY)
 * Es sollen maximal 10 Einträge gespeichert werden dürfen
-* Die TODO-Einträge sollen auf einer Webseite dargestellt werden und dem Nutzer folgende Aktionen ermöglichen:
+* Folgende Aktionen sollen über den Rest-Service möglich sein:
   * Anlegen eines Eintrags
   * Update eines Eintrags
   * Anzeige aller Einträge
@@ -18,4 +18,4 @@ Verwenden Sie zur Umsetzung der Aufgabe folgende Technologien
 Rahmenbedingungen
 * Es ist ausreichend, wenn der Service alle Werte „in Memory“ zur Laufzeit speichert.
 * Für alle individuell erstellten Klassen sollen Unittests geschrieben werden. Rest-Services sollen mit Rest-Assured getestet werden.
-* Für das Anlegen eines Eintrages muss keine GUI gebaut werden. Dies kann via Swagger-Ui oder Postman erfolgen. Ein entsprechender Endpunkt muss also vorhanden sein.
+* Für das Anlegen eines Eintrages muss keine GUI gebaut werden. Dies kann via Swagger-Ui oder Postman erfolgen. 
