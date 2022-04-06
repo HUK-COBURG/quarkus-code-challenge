@@ -1,5 +1,5 @@
 # Aufgabe
-Erstellen sie einen Rest-Service der Endpoints zum Verwalten einer TODO-Liste bereitstellt. Die einzelnen TODO-Einträge sollen dabei mindestens folgende Eigenschaften besitzen:
+Erstellen Sie einen Rest-Service der Endpoints zum Verwalten einer TODO-Liste bereitstellt. Die einzelnen TODO-Einträge sollen dabei mindestens folgende Eigenschaften besitzen:
 * Beschreibung (Max 100 Zeichen)
 * Erledigungsdatum (DD.MM.YYYY)
 * Es sollen maximal 10 Einträge gespeichert werden dürfen
