@@ -5,13 +5,13 @@ Erstellen Sie einen Rest-Service der Endpoints zum Verwalten einer TODO-Liste be
 * Es sollen max. 10 Einträge gespeichert werden dürfen
 * Folgende Aktionen sollen über den Rest-Service möglich sein:
   * Anlegen eines Eintrags
-  * Update eines Eintrags
   * Anzeige aller Einträge
+  * Update eines Eintrags
   * Löschen eines Eintrages
   
 # Hinweise
 Verwenden Sie zur Umsetzung der Aufgabe folgende Technologien
-* Quarkus in Version 2.7+
+* Quarkus in Version 2.16.4
 * JavaEE, Jax-RS
 * Swagger-Ui zur Visualisierung der APIs
 
