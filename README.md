@@ -11,8 +11,8 @@ Erstellen Sie einen Rest-Service der Endpoints zum Verwalten einer TODO-Liste be
   
 # Hinweise
 Verwenden Sie zur Umsetzung der Aufgabe folgende Technologien
-* Quarkus in Version 2.16.4
-* JavaEE, Jax-RS
+* Quarkus in Version 3.30.5
+* JavaEE, Jakarta-RS
 * Swagger-Ui zur Visualisierung der APIs
 
 Rahmenbedingungen
