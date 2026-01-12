@@ -1,7 +1,7 @@
 # Aufgabe
-Erstellen Sie einen Rest-Service der Endpoints zum Verwalten einer TODO-Liste bereitstellt. Die einzelnen TODO-Einträge sollen dabei mindestens folgende Eigenschaften besitzen:
-* Beschreibung (Max 100 Zeichen)
-* Erledigungsdatum (DD.MM.YYYY)
+Erstellen Sie einen Rest-Service der Endpoints zum Verwalten einer Kunden-Liste bereitstellt. Die einzelnen Kunden-Einträge sollen dabei mindestens folgende Eigenschaften besitzen:
+* Name/Vorname d. Kunden (Max 100 Zeichen)
+* Geburtsdatum d. Kunden (DD.MM.YYYY)
 * Es sollen max. 10 Einträge gespeichert werden dürfen
 * Folgende Aktionen sollen über den Rest-Service möglich sein:
   * Anlegen eines Eintrags
@@ -18,5 +18,5 @@ Verwenden Sie zur Umsetzung der Aufgabe folgende Technologien
 Rahmenbedingungen
 * Es ist ausreichend, wenn der Service alle Werte „in Memory“ zur Laufzeit speichert.
 * Für alle individuell erstellten Klassen sollen Unittests geschrieben werden. Rest-Services sollen mit Rest-Assured getestet werden.
-* Für das Anlegen eines Eintrages muss keine GUI gebaut werden. Dies kann via Swagger-Ui oder Postman erfolgen.
+* Für das Anlegen eines Eintrages muss keine GUI gebaut werden. Dies kann via Swagger-Ui oder Postman (o.ä.) erfolgen.
 * Der Rest-Service soll ausschließlich mit Json arbeiten
