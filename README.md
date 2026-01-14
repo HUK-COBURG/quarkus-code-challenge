@@ -1,7 +1,7 @@
 # Aufgabe
-Erstellen Sie einen Rest-Service der Endpoints zum Verwalten einer Kunden-Liste bereitstellt. Die einzelnen Kunden-Einträge sollen dabei mindestens folgende Eigenschaften besitzen:
-* Name/Vorname d. Kunden (Max 100 Zeichen)
-* Geburtsdatum d. Kunden (DD.MM.YYYY)
+Erstellen Sie einen Rest-Service der Endpoints zum Verwalten eines Warenkorbs bereitstellt. Die einzelnen Produkt-Einträge sollen dabei mindestens folgende Eigenschaften besitzen:
+* Name d. Produkts (Max 100 Zeichen)
+* Datum des Eintrags (DD.MM.YYYY)
 * Es sollen max. 10 Einträge gespeichert werden dürfen
 * Folgende Aktionen sollen über den Rest-Service möglich sein:
   * Anlegen eines Eintrags
